@@ -1,18 +1,2 @@
-03-20-2020 at 01:14
-This is my first journal entry from my automated journal. I am kind of treating this as a test but at the same time its a pretty legit entry. I am grateful that I found the motivation to do this today. It has given me hope and I think I will do a lot more of these types of programs later in the week. This was a fun project. Other than that, I have been called to serve to the Montevideo west mission in Uruguay and I could not be more stoked. It is obviously the right place for me and I can't wait to get down there. I have begun to read the book of mormon in spanish a little bit and to be honest it is really improving my spanish quite a bit. That is a real blessing and I am grateful that I have some time to learn some new stuff while school is out. Well, that's it. I will probably be making some more updates to this in the future. For now it fulfills my needs but say if I posted this to github, I would need to add a GUI and most likely I would need to write this in another language because python is slow as balls.
 
-03-20-2020 at 12:31
-I wanna write down a little thought that I had about the video that we watched in seminary today. It was about how we just need to listen to the spirit and ourselves and try harder to recieve answers from God. We also need to listen to other people because acknowledging people's needs is one of the most important things we can do on this earth in order to serve our fellow man and ultimately serve God. The final point is that we all need to listen to how our friends and family are so that we can help them to with the best of our ability. That is something that is going to be super crucial on my mission
-
-03-21-2020 at 02:06
-I need to fix my sleep schedule. I have gotten off during these past few days and it is getting pretty bad. This automated journal, however, is really coming in handy and I am having no errors at all yet. I coded a lot less than I needed to today and that's ok because I WILL make it up tomorrow. I played an absurd amount of minecraft today. I just need to chill with the gaming a little bit. I feel like whenever I go a super long time without plaing video games and then I get the chance to just binge, I relapse but then snap out of it a few days later. I think I am starting to realize that minecraft isn't as fun as it used to be. I am speaking spanish a lot more fluidly today. I think reading the scriptures out loud in spanish really helps. Can't wait for Uruguay!
-
-03-21-2020 at 22:52
-good morning
-
-03-22-2020 at 02:19
-A simple idea to not forget for the money manager is to make the gains and expenses line up vertically since you can just add it. You should also format it so that after 8 weeks or so you can put those 8 weeks along with other sets of 8 weeks in another spreadsheet to keep them organized. In other news, today was pretty lazy. I played too much minecraft again even though I said yesterday that I was not going to do that. I need to take control of myself because to be honest I really like computer programming and data science is a lot easier and a lot more fun than I used to think. God has given me this time to become better and playing minecraft with my buds has not helped me do that to the best of my abilities. goodnight, king
-
-03-22-2020 at 02:23
-Fixed
 
